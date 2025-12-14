@@ -1,3 +1,7 @@
 <?php
-echo "<h1> بسم الله الرحمن الرحيم </h1>";
+get_header();
 ?>
+<hr>
+<h1>Hello World</h1>
+<hr>
+<?php get_footer(); ?>
