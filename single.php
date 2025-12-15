@@ -1,0 +1,1 @@
+<h1>this is single.php نوشته</h1>

@@ -1,4 +1,3 @@
 <?php
-$theme_url = get_template_directory_uri();
-echo $theme_url;
+echo <h1>this is singular.php صفحه نهایی</h1>;
 ?>
