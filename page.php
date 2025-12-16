@@ -1,1 +1,1 @@
-echo <h1>this is page برگه</h1> 
+<h1>this is page </h1> 

@@ -1,1 +1,1 @@
-<h1>this is single.php نوشته</h1>
+<h1>this is single.php</h1>
