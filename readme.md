@@ -1,4 +1,7 @@
 # WordPress Learning Journey 🚀
+---
+![img](./screenshot.png)
+---
 
 Hi there 👋  
 I'm Zahra khivveh, a passionate learner currently focusing on WordPress development and related web technologies.
