@@ -1,6 +1,6 @@
 # WordPress Learning Journey 🚀
 ---
-![img](./screenshot.png)
+![img](./img/174881.png)
 ---
 
 Hi there 👋  
